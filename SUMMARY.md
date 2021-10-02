@@ -15,6 +15,5 @@
   * [Fleetbase Storefront Deck](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-deck.md)
   * [Fleetbase Storefront One Pager](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-one-pager.md)
   * [Fleetbase Storefront - Logistics Company Use Case](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-logistics-company-use-case.md)
-* [Untitled](technology-roadmap/untitled.md)
 * [Jira Planning](technology-roadmap/jira-planning.md)
 
