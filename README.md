@@ -12,7 +12,7 @@ Evaluation of vendor platforms, competitive differentiators, business strategy &
 
 ## Technology Roadmap
 
-Technology roadmap covers all of the Btab systems integrations to support group companies and business strategy for 2022 and beyond.
+The Technology roadmap covers all of the Btab systems integrations to support group companies and business strategy for 2022 and beyond.
 
 {% hint style="info" %}
 Start navigating using the menu in the left panel or follow the navigation leads at the bottom of the page.
