@@ -24,7 +24,7 @@ To view in fullscreen mode, double click on the videos below
 
 ### Demonstration of a Real-Time Storefront Product Setup, Purchase & Order Fulfilment
 
-{% embed url="https://youtu.be/h1DUeqb5Wyw" %}
+{% embed url="https://youtu.be/3lu-EC8HQww" %}
 
 * 00:00 Add new product category to Chemist Deals marketplace store 
 * 00:15 Add new product to Chemist Deals marketplace store 
@@ -42,7 +42,7 @@ To view in fullscreen mode, double click on the videos below
 
 ### Demonstration of a Real-Time Dispatch \(Last-Mile Delivery\)
 
-{% embed url="https://youtu.be/2wNI2surBEw" %}
+{% embed url="https://youtu.be/6udjWoyvNZs" %}
 
 * 00:00 Delivery facilitor receives order via navigator app 
 * 00:12 Delivery facilitor starts delivery route 
