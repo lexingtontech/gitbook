@@ -1,3 +1,7 @@
+---
+description: Custom approach to building the Btab Marketplace solution.
+---
+
 # Btab Marketplace Solution
 
 ### Chemist Deals Demonstration
@@ -20,9 +24,28 @@ To view in fullscreen mode, double click on the videos below
 
 ### Demonstration of a Real-Time Storefront Product Setup, Purchase & Order Fulfilment
 
-{% embed url="https://drive.google.com/file/d/1PymfiCFt96YCoBSxPHiZtrp5930KrFb5/view?usp=sharing" %}
+{% embed url="https://youtu.be/h1DUeqb5Wyw" %}
+
+* 00:00 Add new product category to Chemist Deals marketplace store 
+* 00:15 Add new product to Chemist Deals marketplace store 
+* 01:00 Browse marketplace storefront via iOS app 
+* 01:10 View newly created product 
+* 01:15 Add product to cart 
+* 01:20 Checkout 
+* 01:30 Purchase product 
+* 01:40 Marketplace receives order confirmation 
+* 01:50 View order in Dashboard 
+* 01:55 Mark order as ready for dispatch 
+* 02:00 Fleetops - view order delivery queue 
+* 02:10 Fleetops - assign delivery facilitator \(driver\) 
+* 02:15 Fleetops - dispatch order
 
 ### Demonstration of a Real-Time Dispatch \(Last-Mile Delivery\)
 
-{% embed url="https://lexingtontech.us/wp-content/uploads/2021/10/fleetbase\_navigator\_demo.mp4" %}
+{% embed url="https://youtu.be/2wNI2surBEw" %}
+
+* 00:00 Delivery facilitor receives order via navigator app 
+* 00:12 Delivery facilitor starts delivery route 
+* 00:22 Delivery facilitor updates delivery & confirms enroute status 
+* 00:26 Delivery facilitor updates delivery & confirms successful delivery
 
