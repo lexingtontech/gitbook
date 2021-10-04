@@ -24,7 +24,9 @@ To view in fullscreen mode, double click on the videos below
 
 ### Demonstration of a Real-Time Storefront Product Setup, Purchase & Order Fulfilment
 
-{% embed url="https://youtu.be/3lu-EC8HQww" %}
+{% embed url="https://firebasestorage.googleapis.com/v0/b/btab-marketplace.appspot.com/o/marketplace%2Fassets%2FChemist\_deals\_delivery\_app\_demo.mp4?alt=media&token=1916dfcb-a4eb-431d-8c9f-07c8c3e4e153" %}
+
+
 
 * 00:00 Add new product category to Chemist Deals marketplace store 
 * 00:15 Add new product to Chemist Deals marketplace store 
@@ -42,7 +44,7 @@ To view in fullscreen mode, double click on the videos below
 
 ### Demonstration of a Real-Time Dispatch \(Last-Mile Delivery\)
 
-{% embed url="https://youtu.be/6udjWoyvNZs" %}
+{% embed url="https://firebasestorage.googleapis.com/v0/b/btab-marketplace.appspot.com/o/marketplace%2Fassets%2Ffleetbase\_navigator\_demo.MP4?alt=media&token=c83520f1-7461-44cc-b1d9-a0dad865a7a6" %}
 
 * 00:00 Delivery facilitor receives order via navigator app 
 * 00:12 Delivery facilitor starts delivery route 
