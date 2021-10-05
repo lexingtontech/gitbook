@@ -6,6 +6,7 @@
 
 * [Marketplace Platform Overview & Review Analysis](marketplace/marketplace-overview-review-and-analysis.md)
 * [Next Steps](marketplace/next-steps.md)
+* [2021 Critical Capabilities for Digital Commerce](marketplace/2021-critical-capabilities-for-digital-commerce.md)
 
 ## Technology Roadmap
 
