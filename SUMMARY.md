@@ -12,6 +12,7 @@
 
 * [Whiteboard](technology-roadmap/whiteboard.md)
 * [Btab Marketplace Solution](technology-roadmap/btab-marketplace-solution/README.md)
+  * [Fleetbase Storefront Client Deck](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-client-deck.md)
   * [Fleetbase Product Deck](technology-roadmap/btab-marketplace-solution/fleetbase-product-deck.md)
   * [Fleetbase Storefront Deck](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-deck.md)
   * [Fleetbase Storefront One Pager](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-one-pager.md)
