@@ -6,7 +6,6 @@
 
 * [Marketplace Platform Overview & Review Analysis](marketplace/marketplace-overview-review-and-analysis.md)
 * [Next Steps](marketplace/next-steps.md)
-* [2021 Critical Capabilities for Digital Commerce](marketplace/2021-critical-capabilities-for-digital-commerce.md)
 
 ## Technology Roadmap
 
@@ -18,4 +17,8 @@
   * [Fleetbase Storefront One Pager](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-one-pager.md)
   * [Fleetbase Storefront - Logistics Company Use Case](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-logistics-company-use-case.md)
 * [Jira Planning](technology-roadmap/jira-planning.md)
+
+## Industry Outlook
+
+* [2021 Critical Capabilities for Digital Commerce](industry-outlook/2021-critical-capabilities-for-digital-commerce.md)
 
