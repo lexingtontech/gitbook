@@ -46,8 +46,8 @@ To view in fullscreen mode, double click on the videos below
 
 {% embed url="https://firebasestorage.googleapis.com/v0/b/btab-marketplace.appspot.com/o/marketplace%2Fassets%2Ffleetbase\_navigator\_demo.MP4?alt=media&token=c83520f1-7461-44cc-b1d9-a0dad865a7a6" %}
 
-* 00:00 Delivery facilitor receives order via navigator app 
-* 00:12 Delivery facilitor starts delivery route 
-* 00:22 Delivery facilitor updates delivery & confirms enroute status 
-* 00:26 Delivery facilitor updates delivery & confirms successful delivery
+* 00:00 Delivery facilitator receives order via navigator app 
+* 00:12 Delivery facilitator starts delivery route 
+* 00:22 Delivery facilitator updates delivery & confirms enroute status 
+* 00:26 Delivery facilitator updates delivery & confirms successful delivery
 
