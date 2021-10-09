@@ -11,6 +11,7 @@
 
 * [Whiteboard](technology-roadmap/whiteboard.md)
 * [Btab Marketplace Solution](technology-roadmap/btab-marketplace-solution/README.md)
+  * [Oro B2B Marketplace Platform](technology-roadmap/btab-marketplace-solution/oro-b2b-marketplace-platform.md)
   * [Fleetbase Storefront Client Deck](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-client-deck.md)
   * [Fleetbase Product Deck](technology-roadmap/btab-marketplace-solution/fleetbase-product-deck.md)
   * [Fleetbase Storefront Deck](technology-roadmap/btab-marketplace-solution/fleetbase-storefront-deck.md)
