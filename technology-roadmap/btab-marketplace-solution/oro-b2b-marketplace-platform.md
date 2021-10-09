@@ -1,8 +1,10 @@
 ---
-description: Demo video
+description: Open source B2B eCommerce platform solution.
 ---
 
 # Oro B2B Marketplace Platform
+
+![](../../.gitbook/assets/oroinc1-v1.png)
 
 Shared video of Oro B2B Marketplace Demo
 
