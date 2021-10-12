@@ -7,26 +7,26 @@ description: >-
 # Next Steps
 
 {% hint style="success" %}
-**Business Strategy**  
-  
+**Business Strategy**\
+\
 Outcome - Btab business strategy & business models for each business channel as part of the omni-channel marketplace.
 {% endhint %}
 
 {% hint style="success" %}
-**Technology roadmap**  
-  
+**Technology roadmap**\
+\
 Outcome - Btab technology roadmap
 {% endhint %}
 
 {% hint style="success" %}
-**Resource plan**  
-  
-Outcome - Btab resource \(internal & external teams\)
+**Resource plan**\
+\
+Outcome - Btab resource (internal & external teams)
 {% endhint %}
 
 {% hint style="success" %}
-**Product development plan**  
-  
+**Product development plan**\
+\
 Outcome - detailed product development of marketplace & other Btab technology platforms
 {% endhint %}
 
@@ -39,5 +39,4 @@ Outcome - detailed product development of marketplace & other Btab technology pl
 
 ## Estimated Timeline
 
-![](../.gitbook/assets/btab_2021-09-30_04.06pm.png)
-
+![](../.gitbook/assets/btab\_2021-09-30\_04.06pm.png)
